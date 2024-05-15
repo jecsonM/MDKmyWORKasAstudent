@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registration</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+<body>
+    <form>
+        <div id="registration-head">
+            Кисловодск-Строй
+        </div>
+        <div id="registration-body">
+            <div class="login">
+                Вход в личный кабинет
+            </div>
+            <p>
+                Имя вашего аккаунта
+            </p>
+            <input class="input-text" placeholder="Введите ваше имя" pattern="^[ a-zA-Zа-яА-я0-9]*$" type="text" id="humanName" name="humanName" maxlength="256" minlength="1" >
+            <p>
+                Электронная почта
+            </p>
+            <input class="input-text" placeholder="Введите вашу почту" type="email" id="email" name="email" maxlength="256" minlength="1">
+            <div width="80%">
+                <input type="checkbox" name="rules"> Я согласен с правилами пользования сайтом<br>
+                <input type="checkbox" name="policies"> Я ознакомлен с политикой конфиденциальности <a target="_blank" href="https://policies.google.com/privacy?hl=ru">"Кисловодск-Строй"</a></div>
+            </div>
+        <div class="controls-holder">
+            <input id="submit" type="submit" value="Войти">    
+        </div>
+    </form>
+</body>

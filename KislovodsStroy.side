@@ -1,0 +1,32 @@
+{
+  "id": "a0a87178-e04c-403a-a3fb-1bc6123b39ad",
+  "version": "2.0",
+  "name": "KislovodsStroy",
+  "url": "http://l93100bf.beget.tech/",
+  "tests": [{
+    "id": "43660d0f-c24d-49b3-990f-112c8a7c48bd",
+    "name": "Тест-кейс № 01. Вход в систему с Полными данными",
+    "commands": [{
+      "id": "90436bf7-6092-4720-9b8d-cf7394e0a305",
+      "comment": "",
+      "command": "assertText",
+      "target": "",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"],
+        ["xpath=//html[contains(.,'Preparing to run your test')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5922b39c-cbf4-4295-8793-9219d851561c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["43660d0f-c24d-49b3-990f-112c8a7c48bd"]
+  }],
+  "urls": ["http://l93100bf.beget.tech/"],
+  "plugins": []
+}
