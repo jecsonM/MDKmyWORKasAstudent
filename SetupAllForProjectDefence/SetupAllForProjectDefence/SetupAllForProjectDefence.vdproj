@@ -15,31 +15,31 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_03B22922F8A14551808452ED9D1A62F6"
+        "MsmKey" = "8:_0C3A41AF03344CB5BCB3ABEF815051F9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3E31202C22AB490A86EF4B4FC1BEA468"
+        "MsmKey" = "8:_2079B254E50D4918BBCB3E45B94F6E0A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4B51176D9FCE421A856A564B4031D0AD"
+        "MsmKey" = "8:_65CE49FA116447099534DB88DC8A5F08"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_86E2F606E06E4E6D9B633E5C2F8DA923"
+        "MsmKey" = "8:_7C24FC7129E942C2898CC8120B2AB1C1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_94B5FA0D1192447DA0111DBDDDC1CDBC"
+        "MsmKey" = "8:_DB8BEC1625D5431AADCEE17EA9374C11"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -130,7 +130,7 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_03B22922F8A14551808452ED9D1A62F6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C3A41AF03344CB5BCB3ABEF815051F9"
             {
             "SourcePath" = "8:..\\..\\Documents\\Отчёт по Лаб_интерф Моисеев Евгений.docx"
             "TargetName" = "8:Отчёт по Лаб_интерф Моисеев Евгений.docx"
@@ -150,7 +150,27 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E31202C22AB490A86EF4B4FC1BEA468"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2079B254E50D4918BBCB3E45B94F6E0A"
+            {
+            "SourcePath" = "8:..\\..\\Documents\\Отчёт по ТестКейсам.docx"
+            "TargetName" = "8:Отчёт по ТестКейсам.docx"
+            "Tag" = "8:"
+            "Folder" = "8:_24B82666DA484BB49286F06B2CDB30AF"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_65CE49FA116447099534DB88DC8A5F08"
             {
             "SourcePath" = "8:..\\..\\Documents\\Предметная область.docx"
             "TargetName" = "8:Предметная область.docx"
@@ -170,7 +190,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4B51176D9FCE421A856A564B4031D0AD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7C24FC7129E942C2898CC8120B2AB1C1"
             {
             "SourcePath" = "8:..\\..\\Documents\\Отчёт по Лаб_Руководство оператора Моисеев Евгений.docx"
             "TargetName" = "8:Отчёт по Лаб_Руководство оператора Моисеев Евгений.docx"
@@ -190,30 +210,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_86E2F606E06E4E6D9B633E5C2F8DA923"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB8BEC1625D5431AADCEE17EA9374C11"
             {
             "SourcePath" = "8:..\\..\\Сайт для компании «Кисловодск-строй».pptx"
             "TargetName" = "8:Сайт для компании «Кисловодск-строй».pptx"
-            "Tag" = "8:"
-            "Folder" = "8:_24B82666DA484BB49286F06B2CDB30AF"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_94B5FA0D1192447DA0111DBDDDC1CDBC"
-            {
-            "SourcePath" = "8:..\\..\\Documents\\Отчёт по ТестКейсам.docx"
-            "TargetName" = "8:Отчёт по ТестКейсам.docx"
             "Tag" = "8:"
             "Folder" = "8:_24B82666DA484BB49286F06B2CDB30AF"
             "Condition" = "8:"
